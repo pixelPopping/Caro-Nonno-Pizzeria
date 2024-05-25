@@ -12,3 +12,4 @@ add salmon
 add more salmon 
 add red peppers 
 add peterselie 
+add chili flakes 

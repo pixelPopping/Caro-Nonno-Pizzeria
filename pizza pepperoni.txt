@@ -15,4 +15,9 @@ add more pepperoni
 add more bressola 
 add mushroom
 add more bressola 
+<<<<<<< HEAD
 add peterselie
+=======
+add chilli glaze 
+add galapeno pepers 
+>>>>>>> spicy-experiments
